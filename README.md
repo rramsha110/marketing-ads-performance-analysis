@@ -20,4 +20,3 @@ Event-level tracking:
 - CTR (Click Through Rate)
 - CPC (Cost Per Click)
 - Conversion Rate
-- ROAS (Return on Ad Spend)
