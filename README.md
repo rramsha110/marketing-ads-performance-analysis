@@ -16,7 +16,7 @@ Event-level tracking:
 - SQL
 - Power BI (planned)
 
-## Key Metrics (to be calculated)
+## Key Metrics 
 - CTR (Click Through Rate)
 - CPC (Cost Per Click)
 - Conversion Rate
