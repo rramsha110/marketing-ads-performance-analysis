@@ -13,8 +13,7 @@ Event-level tracking:
 
 ## Tools Used
 - PostgreSQL
-- SQL
-- Power BI (planned)
+- Power BI
 
 ## Key Metrics 
 - CTR (Click Through Rate)
